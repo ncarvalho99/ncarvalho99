@@ -9,7 +9,7 @@
 ![Natã GitHub stats](https://github-readme-stats.vercel.app/api?username=ncarvalho99&show_icons=true&theme=transparent)
 
 Information Technology student at Federal University of Mato Grosso do Sul<br>
-Graduated in Systems Development at ETEC (São Paulo State Technical School)<br><br>
+Systems Development Graduated at ETEC (São Paulo State Technical School)<br><br>
 
 - CCNA: Introduction to Networks<br>
 - CCNA: Swithing, Routing and Wireless Essentials on going<br>
